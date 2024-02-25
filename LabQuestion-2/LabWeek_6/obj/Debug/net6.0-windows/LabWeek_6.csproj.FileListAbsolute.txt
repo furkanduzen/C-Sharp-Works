@@ -1,0 +1,16 @@
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\bin\Debug\net6.0-windows\LabWeek_6.exe
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\bin\Debug\net6.0-windows\LabWeek_6.deps.json
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\bin\Debug\net6.0-windows\LabWeek_6.runtimeconfig.json
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\bin\Debug\net6.0-windows\LabWeek_6.dll
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\bin\Debug\net6.0-windows\LabWeek_6.pdb
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\obj\Debug\net6.0-windows\LabWeek_6.Form1.resources
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\obj\Debug\net6.0-windows\LabWeek_6.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\obj\Debug\net6.0-windows\LabWeek_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\obj\Debug\net6.0-windows\LabWeek_6.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\obj\Debug\net6.0-windows\LabWeek_6.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\obj\Debug\net6.0-windows\LabWeek_6.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\obj\Debug\net6.0-windows\LabWeek_6.dll
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\obj\Debug\net6.0-windows\refint\LabWeek_6.dll
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\obj\Debug\net6.0-windows\LabWeek_6.pdb
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\obj\Debug\net6.0-windows\LabWeek_6.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\LabWeek_6\LabWeek_6\obj\Debug\net6.0-windows\ref\LabWeek_6.dll

@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\LabQuestion\LabQuestion\bin\Debug\LabQuestion.exe.config
+C:\Users\Furkan\source\repos\LabQuestion\LabQuestion\bin\Debug\LabQuestion.exe
+C:\Users\Furkan\source\repos\LabQuestion\LabQuestion\bin\Debug\LabQuestion.pdb
+C:\Users\Furkan\source\repos\LabQuestion\LabQuestion\obj\Debug\LabQuestion.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\LabQuestion\LabQuestion\obj\Debug\LabQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\LabQuestion\LabQuestion\obj\Debug\LabQuestion.exe
+C:\Users\Furkan\source\repos\LabQuestion\LabQuestion\obj\Debug\LabQuestion.pdb
